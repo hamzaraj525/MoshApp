@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484932786186-f80934ru5cut76tra6fk6qn0rg7n3hga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484932786186-f80934ru5cut76tra6fk6qn0rg7n3hga</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6m5XtXe_9LKQ7li_jFeN0LHh3kAGq9Ek</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484932786186</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.MoshApp</string>
+	<key>PROJECT_ID</key>
+	<string>moshapp-49714</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moshapp-49714.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484932786186:ios:b321ed0eeeb230359167f3</string>
+</dict>
+</plist>
